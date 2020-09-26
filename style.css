@@ -1,0 +1,56 @@
+.main {
+    display: flex;
+}
+
+.block {
+    width: 300px;
+    margin: 0 10px;
+}
+
+span {
+    display: block;
+    padding: 30px, 25px, 30px, 25px;
+}
+
+img {
+    width: 300px;
+    height: 205px;
+}
+
+#words {
+    padding: 30px 25px;
+    width: 250px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#text {
+    font-size: 15px;
+    color: #666666;
+}
+
+h3,
+#rub {
+    font-size: 20px;
+    color: #333333;
+}
+
+#rub {
+    display: inline;
+}
+
+#price {
+    font-size: 35px;
+    color: #333333;
+    margin: 0;
+}
+
+#garbage {
+    width: 50px;
+    height: 40px;
+    background-color: #4ed17b;
+    fill: #ffffff;
+}
+
+#garbage:hover {
+    background-color: aqua;
+}
